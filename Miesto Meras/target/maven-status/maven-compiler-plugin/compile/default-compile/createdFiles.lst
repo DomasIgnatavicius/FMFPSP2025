@@ -1,1 +1,16 @@
+lt\ignatavicius\fmfpsp\miestomeras\core\RandomEventProviderImpl.class
+lt\ignatavicius\fmfpsp\miestomeras\core\State$Outcome.class
+lt\ignatavicius\fmfpsp\miestomeras\controller\GameController.class
 lt\ignatavicius\fmfpsp\miestomeras\MiestoMerasApplication.class
+lt\ignatavicius\fmfpsp\miestomeras\core\State.class
+lt\ignatavicius\fmfpsp\miestomeras\service\RulesService.class
+lt\ignatavicius\fmfpsp\miestomeras\config\game\GameConfig.class
+lt\ignatavicius\fmfpsp\miestomeras\core\City.class
+lt\ignatavicius\fmfpsp\miestomeras\config\security\CorsConfig.class
+lt\ignatavicius\fmfpsp\miestomeras\service\GameService.class
+lt\ignatavicius\fmfpsp\miestomeras\core\Indicators.class
+lt\ignatavicius\fmfpsp\miestomeras\core\RandomEventProvider.class
+lt\ignatavicius\fmfpsp\miestomeras\service\RulesService$1.class
+lt\ignatavicius\fmfpsp\miestomeras\core\RandomEvent.class
+lt\ignatavicius\fmfpsp\miestomeras\core\Rule.class
+lt\ignatavicius\fmfpsp\miestomeras\config\security\CorsConfig$1.class

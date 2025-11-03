@@ -1,0 +1,47 @@
+[
+  {
+    "id": "build_infra",
+    "name": "Statyti infrastruktūrą",
+    "description": "Investicija į infrastruktūrą",
+    "dBudget": -15,
+    "dHappiness": 5,
+    "dSafety": 4,
+    "dEnvironment": -3
+  },
+  {
+    "id": "repair",
+    "name": "Taisyti infrastruktūrą",
+    "description": "Smulkūs remontai",
+    "dBudget": -6,
+    "dHappiness": 2,
+    "dSafety": 2,
+    "dEnvironment": 2
+  },
+  {
+    "id": "tax_up",
+    "name": "Didinti mokesčius",
+    "description": "Didesnės pajamos, bet nepopuliaru",
+    "dBudget": 15,
+    "dHappiness": -5,
+    "dSafety": 0,
+    "dEnvironment": 0
+  },
+  {
+    "id": "tax_down",
+    "name": "Mažinti mokesčius",
+    "description": "Mažesnės pajamos, bet džiugina gyventojus",
+    "dBudget": 5,
+    "dHappiness": 3,
+    "dSafety": 0,
+    "dEnvironment": 0
+  },
+  {
+    "id": "cut_spending",
+    "name": "Mažinti išlaidas",
+    "description": "Taupymas dabar, bet krenta saugumas ir laimė",
+    "dBudget": 8,
+    "dHappiness": -3,
+    "dSafety": -2,
+    "dEnvironment": 0
+  }
+]
